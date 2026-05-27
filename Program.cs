@@ -1,12 +1,7 @@
-﻿using System;
-using System.ComponentModel;
-using System.Diagnostics;
-using System.IO;
+﻿using System.Diagnostics;
 using System.Security.Principal;
-using System.Windows.Forms;
 using Microsoft.Win32;
 using Spectre.Console.Cli;
-using Spectre.Console;
 using symlinker.Resources;
 
 internal class Program
